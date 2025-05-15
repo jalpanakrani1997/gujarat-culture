@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Patola Silk Saree",
+            "price": 25000,
+            "image": "https://www.sindhoipatola.in/wp-content/uploads/2021/04/Patola-Saree-1.jpg",
+            "category": "Textiles",
+            "description": "Traditional Patola silk saree with intricate double ikat patterns, handwoven in Patan, Gujarat.",
+            "brand": "Gujarat Heritage",
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Kutch Embroidery Shawl",
+            "price": 4500,
+            "image": "https://ethnicsofkutch.com/cdn/shop/products/Kutch_Embroidery_Shawl.jpg",
+            "category": "Textiles",
+            "description": "Hand-embroidered shawl from Kutch with traditional motifs and mirror work.",
+            "brand": "Kutch Crafts",
+            "rating": 4.6
+        },
+        {
+            "id": 3,
+            "name": "Sankheda Wooden Box",
+            "price": 1200,
+            "image": "https://gaatha.org/wp-content/uploads/2020/12/Sankheda-Wooden-Box.jpg",
+            "category": "Handicrafts",
+            "description": "Intricately carved wooden box from Sankheda, perfect for storing jewelry.",
+            "brand": "Sankheda Woodcraft",
+            "rating": 4.5
+        },
+        {
+            "id": 4,
+            "name": "Bandhani Dupatta",
+            "price": 3500,
+            "image": "https://khatrijamnadas.com/cdn/shop/products/Bandhani_Dupatta.jpg",
+            "category": "Textiles",
+            "description": "Traditional Bandhani tie-dye dupatta with vibrant colors and patterns.",
+            "brand": "Gujarat Heritage",
+            "rating": 4.7
+        },
+        {
+            "id": 5,
+            "name": "Kutch Pottery Set",
+            "price": 2800,
+            "image": "https://www.terracottabysachii.com/cdn/shop/products/Kutch_Pottery_Set.jpg",
+            "category": "Pottery",
+            "description": "Handcrafted clay pottery set from Kutch, perfect for traditional cooking.",
+            "brand": "Kutch Pottery",
+            "rating": 4.4
+        },
+        {
+            "id": 6,
+            "name": "Kutch Silver Jewelry",
+            "price": 8500,
+            "image": "https://shop.gaatha.com/cdn/shop/products/Kutch_Silver_Jewelry.jpg",
+            "category": "Jewelry",
+            "description": "Traditional silver jewelry set with intricate Kutch work designs.",
+            "brand": "Kutch Silver",
+            "rating": 4.9
+        },
+        {
+            "id": 7,
+            "name": "Rogan Art Painting",
+            "price": 6500,
+            "image": "https://roganartnirona.com/images/Rogan_Art_Painting.jpg",
+            "category": "Art",
+            "description": "Traditional Rogan art painting on cloth, depicting Gujarat's culture.",
+            "brand": "Rogan Art",
+            "rating": 4.7
+        },
+        {
+            "id": 8,
+            "name": "Bamboo Craft Basket",
+            "price": 1800,
+            "image": "https://www.tribesindia.com/wp-content/uploads/2021/05/Bamboo_Craft_Basket.jpg",
+            "category": "Handicrafts",
+            "description": "Handwoven bamboo basket with traditional patterns.",
+            "brand": "Gujarat Crafts",
+            "rating": 4.3
+        },
+        {
+            "id": 9,
+            "name": "Kutch Mirror Work Cushion",
+            "price": 2200,
+            "image": "https://www.craftsvilla.com/catalog/product/view/id/1234567/s/kutch-mirror-work-cushion/",
+            "category": "Home Decor",
+            "description": "Handmade cushion with traditional Kutch mirror work.",
+            "brand": "Kutch Crafts",
+            "rating": 4.6
+        },
+        {
+            "id": 10,
+            "name": "Patan Patola Stole",
+            "price": 7500,
+            "image": "https://www.sindhoipatola.in/wp-content/uploads/2021/04/Patola-Stole.jpg",
+            "category": "Textiles",
+            "description": "Elegant Patola stole with traditional geometric patterns.",
+            "brand": "Gujarat Heritage",
+            "rating": 4.8
+        },
+        {
+            "id": 11,
+            "name": "Kutch Leather Bag",
+            "price": 3200,
+            "image": "https://www.gaatha.com/wp-content/uploads/2020/12/Kutch-Leather-Bag.jpg",
+            "category": "Accessories",
+            "description": "Handcrafted leather bag with traditional Kutch embroidery.",
+            "brand": "Kutch Crafts",
+            "rating": 4.5
+        },
+        {
+            "id": 12,
+            "name": "Sankheda Furniture Set",
+            "price": 45000,
+            "image": "https://www.sankhedafurniture.com/images/Sankheda-Furniture-Set.jpg",
+            "category": "Furniture",
+            "description": "Traditional Sankheda furniture set with intricate carvings.",
+            "brand": "Sankheda Woodcraft",
+            "rating": 4.9
+        },
+        {
+            "id": 13,
+            "name": "Kutch Wall Hanging",
+            "price": 2800,
+            "image": "https://www.ethnicsofkutch.com/cdn/shop/products/Kutch-Wall-Hanging.jpg",
+            "category": "Home Decor",
+            "description": "Colorful wall hanging with traditional Kutch embroidery.",
+            "brand": "Kutch Crafts",
+            "rating": 4.4
+        },
+        {
+            "id": 14,
+            "name": "Bandhani Kurti",
+            "price": 4200,
+            "image": "https://www.bandhanikurti.com/images/Bandhani-Kurti.jpg",
+            "category": "Clothing",
+            "description": "Traditional Bandhani tie-dye kurti with vibrant patterns.",
+            "brand": "Gujarat Heritage",
+            "rating": 4.7
+        },
+        {
+            "id": 15,
+            "name": "Kutch Pottery Vase",
+            "price": 1800,
+            "image": "https://www.terracottabysachii.com/cdn/shop/products/Kutch-Pottery-Vase.jpg",
+            "category": "Pottery",
+            "description": "Handcrafted pottery vase with traditional Kutch designs.",
+            "brand": "Kutch Pottery",
+            "rating": 4.5
+        },
+        {
+            "id": 16,
+            "name": "Silver Anklets",
+            "price": 5200,
+            "image": "https://shop.gaatha.com/cdn/shop/products/Silver-Anklets.jpg",
+            "category": "Jewelry",
+            "description": "Traditional silver anklets with Kutch work designs.",
+            "brand": "Kutch Silver",
+            "rating": 4.8
+        },
+        {
+            "id": 17,
+            "name": "Rogan Art Scarf",
+            "price": 3800,
+            "image": "https://roganartnirona.com/images/Rogan-Art-Scarf.jpg",
+            "category": "Accessories",
+            "description": "Elegant scarf featuring traditional Rogan art patterns.",
+            "brand": "Rogan Art",
+            "rating": 4.6
+        },
+        {
+            "id": 18,
+            "name": "Bamboo Lamp",
+            "price": 2500,
+            "image": "https://www.tribesindia.com/wp-content/uploads/2021/05/Bamboo-Lamp.jpg",
+            "category": "Home Decor",
+            "description": "Handcrafted bamboo lamp with traditional patterns.",
+            "brand": "Gujarat Crafts",
+            "rating": 4.4
+        },
+        {
+            "id": 19,
+            "name": "Kutch Mirror Work Table Runner",
+            "price": 3200,
+            "image": "https://www.ethnicsofkutch.com/cdn/shop/products/Kutch-Mirror-Work-Table-Runner.jpg",
+            "category": "Home Decor",
+            "description": "Traditional Kutch mirror work table runner.",
+            "brand": "Kutch Crafts",
+            "rating": 4.7
+        },
+        {
+            "id": 20,
+            "name": "Patola Silk Scarf",
+            "price": 6800,
+            "image": "https://www.sindhoipatola.in/wp-content/uploads/2021/04/Patola-Scarf.jpg",
+            "category": "Accessories",
+            "description": "Elegant Patola silk scarf with traditional patterns.",
+            "brand": "Gujarat Heritage",
+            "rating": 4.9
+        },
+        {
+            "id": 21,
+            "name": "Kutch Leather Wallet",
+            "price": 1800,
+            "image": "https://www.gaatha.com/wp-content/uploads/2020/12/Kutch-Leather-Wallet.jpg",
+            "category": "Accessories",
+            "description": "Handcrafted leather wallet with Kutch embroidery.",
+            "brand": "Kutch Crafts",
+            "rating": 4.5
+        },
+        {
+            "id": 22,
+            "name": "Sankheda Jewelry Box",
+            "price": 2800,
+            "image": "https://gaatha.org/wp-content/uploads/2020/12/Sankheda-Jewelry-Box.jpg",
+            "category": "Handicrafts",
+            "description": "Intricately carved Sankheda jewelry box.",
+            "brand": "Sankheda Woodcraft",
+            "rating": 4.6
+        },
+        {
+            "id": 23,
+            "name": "Kutch Pottery Tea Set",
+            "price": 4200,
+            "image": "https://www.terracottabysachii.com/cdn/shop/products/Kutch-Pottery-Tea-Set.jpg",
+            "category": "Pottery",
+            "description": "Traditional Kutch pottery tea set with hand-painted designs.",
+            "brand": "Kutch Pottery",
+            "rating": 4.7
+        },
+        {
+            "id": 24,
+            "name": "Silver Bangles Set",
+            "price": 6500,
+            "image": "https://shop.gaatha.com/cdn/shop/products/Silver-Bangles-Set.jpg",
+            "category": "Jewelry",
+            "description": "Traditional silver bangles with Kutch work designs.",
+            "brand": "Kutch Silver",
+            "rating": 4.8
+        }
+    ]
+}
